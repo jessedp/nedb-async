@@ -39,7 +39,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "nedb": "^1.8.0"
+    "git+https://github.com/jessedp/nedb.git": "^1.8.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.23",
