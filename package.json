@@ -38,8 +38,8 @@
     "email": "akumaisaacakuma@gmail.com"
   },
   "license": "MIT",
-  "dependencies": 
-    "nedb" : "git+https://github.com/jessedp/nedb.git"
+  "dependencies": { 
+    "nedb": "git+https://github.com/jessedp/nedb.git"
   },
   "devDependencies": {
     "@types/jest": "^24.0.23",
